@@ -3,10 +3,9 @@
 <div align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="120" alt="OpenCV Logo"/> </div> <br>
 
 Welcome to my little corner of computer vision experiments!
-This repo is basically a growing playground where I upload all my OpenCV + dlib + Python mini-projects — from simple detections to fun real-time vision tricks.
-
+This repo is basically a growing playground where I upload all my OpenCV from simple detections to fun real-time vision tricks.
 I keep adding new stuff as I learn, experiment, and break things (in the best way).
-If you’re exploring CV or just vibing with AI, feel free to check out the scripts, use them, remix them — go crazy
+If you’re exploring CV or just vibing with AI, feel free to check out the scripts, use them, remix them go crazy
 
 ## 🚀 What This Repo Is About
 
